@@ -20,7 +20,7 @@ el programa la va a ignorar al ejecutarse.
 Realiza un programa para calcular los valores de la ecuación cuadrática `ax^2+bx+c` usando la fórmula cuadrática.
 El programa debe leer tres valores enteros a, b y c, y encontrar los valores de x, considerando las siguientes restricciones:
 - Si a = 0 y b = 0 se debe desplegar el mensaje `"No tiene solucion”`.
-- Si a = 0 y b != 0 se debe despejar el valor de x = –c/b y mostrar este valor.
+- Si a = 0 y b != 0 se debe despejar el valor de   y mostrar este valor.
 - Si a != 0 y b != 0 se debe calcular el discriminante.
       * Si el valor del discriminante es negativo debe mostrar el mensaje `"Raices complejas"`.
       * Si el valor del discriminante es positivo debe calcular y mostrar los dos valores de x, una en cada renglón.
